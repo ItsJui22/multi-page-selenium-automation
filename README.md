@@ -31,3 +31,11 @@ This project demonstrates **multi-page web automation** using **JavaScript** and
 
 ## 🔹 Project Structure
 
+multi-page-selenium-automation/
+│
+├── package.json
+├── package-lock.json
+└── tests/
+├── loginTest.js
+├── dashboardTest.js
+└── profileUpdateTest.js
